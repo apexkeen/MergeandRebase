@@ -1,0 +1,8 @@
+Change1 master
+<<<<<<< HEAD
+change4 feature
+change5 feature
+=======
+change 2 master
+change 3 master
+>>>>>>> master
